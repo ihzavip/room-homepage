@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body,
+html {
+  font-family: "League Spartan", sans-serif;
+}
+
+.fw-700 {
+  font-weight: 500;
+}
+
+.grid-item-1 {
+  background: url(../images/desktop-image-hero-1.jpg);
+  height: 500px;
+  background-repeat: no-repeat;
+}
